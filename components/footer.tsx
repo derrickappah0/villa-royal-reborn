@@ -74,7 +74,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-secondary-foreground/20 text-center text-sm text-secondary-foreground/60">
-          <p>&copy; {new Date().getFullYear()} Nandy's Villa Royal. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Nandy's Villa Royal... All rights reserved.</p>
         </div>
       </div>
     </footer>
